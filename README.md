@@ -54,7 +54,7 @@ This README provides a basic overview of commonly used Git and GitHub commands. 
     git commit -m "Merge conflict resolution"
 
 For more advanced commands, visit this 
-[link](https://linear.app/antstack/issue/LEA-861/backend-allow-user-to-update-their-own-details-except-for-changing-the](https://git-scm.com/docs/git#_git_commands)https://git-scm.com/docs/git#_git_commands)
+[link](https://git-scm.com/docs/git#_git_commands)
 
 
 
